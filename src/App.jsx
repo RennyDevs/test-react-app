@@ -1,7 +1,7 @@
 import './App.css'
 import Presentation from './components/Presentation'
 
-function App() {
+function App () {
   return <Presentation />
 }
 
